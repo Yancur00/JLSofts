@@ -1,0 +1,64 @@
+.topnav {
+  background-color: #292929;
+  overflow: hidden;
+}
+
+
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+
+.topnav a.active {
+  background-color: #04AA6D;
+  color: white;
+}
+
+.main {
+	color: magenta;
+}
+
+.gbar {
+	text-align: center;
+}
+
+.gbar a {
+  padding: 6px 8px 6px 16px;
+  text-decoration: none;
+  font-size: 25px;
+  color: #000000;
+  display: block;
+}
+
+.gbar a:hover {
+  color: #ff00a2;
+}
+
+.boxcol {
+	text-align: center;
+	border: 5px solid magenta;
+	width: 460px;
+}
+
+.boxcol a {
+  padding: 6px 8px 6px 16px;
+  text-decoration: none;
+  font-size: 25px;
+  color: #000000;
+  display: block;
+}
+
+.boxcol a:hover {
+	color: #ff00a2;
+}
